@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "496258973850",
+    "firebase_url": "https://myapplication-82db4.firebaseio.com",
+    "project_id": "myapplication-82db4",
+    "storage_bucket": "myapplication-82db4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496258973850:android:ee4c48fedf422919",
+        "android_client_info": {
+          "package_name": "com.example.monstertechno.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496258973850-qp4f7q4tlko7eucceq8r8k3ehkjued2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.monstertechno.myapplication",
+            "certificate_hash": "e3857676e8abe69374bf6c192a4c02b33a827fc4"
+          }
+        },
+        {
+          "client_id": "496258973850-6j735ijibp9hhsohe48guob02oi4mne4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXnHbBjoeJuRF-MoLxgjAcVO88JjSm45U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496258973850-6j735ijibp9hhsohe48guob02oi4mne4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496258973850:android:2a1b76cd8bddeb46",
+        "android_client_info": {
+          "package_name": "info.androidhive.materialtabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496258973850-oo07ofktnnbvq6vd2k8uevddkj7lvat3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.androidhive.materialtabs",
+            "certificate_hash": "f605e86724e228785684c0d10d5f1ad4ff9ae7a1"
+          }
+        },
+        {
+          "client_id": "496258973850-6j735ijibp9hhsohe48guob02oi4mne4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXnHbBjoeJuRF-MoLxgjAcVO88JjSm45U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496258973850-6j735ijibp9hhsohe48guob02oi4mne4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
